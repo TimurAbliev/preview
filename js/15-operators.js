@@ -1,7 +1,7 @@
 "use strict";
 
-let incr = 10,
-    decr = 10;
+// let incr = 10,
+//     decr = 10;
 
 
 // incr ++;
@@ -22,4 +22,13 @@ let incr = 10,
 
 // console.log(isCheked || !isClosed);
 
-console.log(2 +2 * 2 === 8);
+//console.log(2 +2 * 2 === 8);
+
+let incr = 10,
+    decr = 10;
+
+// ++ incr;
+// -- decr;
+console.log(++incr);
+console.log(--decr);
+
